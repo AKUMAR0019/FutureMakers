@@ -13,5 +13,8 @@ Today, I learned how to tell a story about myself that comes from the heart, a s
 
 Day 3:
 ---------
+Today, I learned how validation is different from testing, which was very helpful, as I didn't understand the distinction until today.
+
 i. In supervised learning, training data already has labels, and the idea is to learn from feedback and predict the outcome. In unsupervised learning, the training data has no labels, so there's no feedback and one learns from the patterns.
+
 ii. It is false because scikit-learn is built on other modules like NumPy, SciPy, IPython, Sympy, pandas, and matplotlib. It does data mining and data analysis, but to collect that data or display that data, it requires other libraries. 
