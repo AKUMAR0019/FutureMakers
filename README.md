@@ -18,3 +18,10 @@ Today, I learned how validation is different from testing, which was very helpfu
 i. In supervised learning, training data already has labels, and the idea is to learn from feedback and predict the outcome. In unsupervised learning, the training data has no labels, so there's no feedback and one learns from the patterns.
 
 ii. It is false because scikit-learn is built on other modules like NumPy, SciPy, IPython, Sympy, pandas, and matplotlib. It does data mining and data analysis, but to collect that data or display that data, it requires other libraries. 
+
+
+Day 4:
+---------
+Today, I learned what the TPU is. I had no idea that there was such a thing as a Tensor Processing Unit which can speed up AI processing. 
+
+The dataset I found is a dataset on breast cancer metastases in whole-slide images of histological lymph node sections. The link is here: https://drive.google.com/drive/folders/0BzsdkU4jWx9Bb19WNndQTlUwb2M?resourcekey=0-FREBAxB4QK4bt9Zch_g5Mg. To use deep learning on this algorithm, I would use pattern recognition (likely a computer vision algorithm), especially to identify which slides have evidence of cancer. 
