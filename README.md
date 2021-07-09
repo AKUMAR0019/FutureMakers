@@ -24,4 +24,4 @@ Day 4:
 ---------
 Today, I learned what the TPU is. I had no idea that there was such a thing as a Tensor Processing Unit which can speed up AI processing. 
 
-The dataset I found is a dataset on breast cancer metastases in whole-slide images of histological lymph node sections. The link is here: https://drive.google.com/drive/folders/0BzsdkU4jWx9Bb19WNndQTlUwb2M?resourcekey=0-FREBAxB4QK4bt9Zch_g5Mg. To use deep learning on this algorithm, I would use pattern recognition, especially to identify which slides have evidence of cancer. 
+The dataset I found is a dataset on breast cancer metastases in whole-slide images of histological lymph node sections. The link is here: https://drive.google.com/drive/folders/0BzsdkU4jWx9Bb19WNndQTlUwb2M?resourcekey=0-FREBAxB4QK4bt9Zch_g5Mg. To use deep learning on this algorithm, I would use pattern recognition (computer vision algorithm), especially to identify which slides have evidence of cancer. 
