@@ -38,4 +38,9 @@ Today, I more about tensors and actually coded a ML algorithm using TensorFlow.
 
 To answer the questions in text format: A tensor is basically a multidimensional array used to generalize scalars, vectors, and matrices. A single-dimensional tensor is a vector, a two-dimensional one, a matrix. Tensors are used in ML because machines cannot learn without data, and modern data is multi-dimensional. Using tensors allows the coder to encode that multi-dimensional data, making it easier to solve problems that involve huge datasets, common in ML. 
 
-The computations I ran were complicated. They tended to involve multiple steps to encode the data followed by the training of a dataset through hundreds of thousands of iterations. Calculations involved splitting a dataset into train and test datasets, encoding them, and then completing prediction and fitting. An optimizer and cost function were both important in tuning the code, as was the overall accuracy. Weights, biases, and lambdas also had to be encoded. It is difficult to understand the math behind it fully, but the concept behind multidimensional arrays and matrices is a part of linear algebra.
+The computations I ran were complicated. They tended to involve multiple steps to encode the data followed by the training of a dataset through hundreds of thousands of iterations. Calculations involved splitting a dataset into train and test datasets, encoding them, and then completing prediction and fitting. An optimizer and cost function were both important in tuning the code, as was the overall accuracy. Weights, biases, and lambdas also had to be encoded. It is difficult to understand the math behind it fully, but the concept behind multidimensional arrays and matrices is a part of linear algebra. 
+
+
+Day 8:
+---------
+Today, I learned more about the different types of neural networks, especially how a neural network operates in terms of neurons, synapses, and activation functions.
