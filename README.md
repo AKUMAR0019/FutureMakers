@@ -44,3 +44,8 @@ The computations I ran were complicated. They tended to involve multiple steps t
 Day 8:
 ---------
 Today, I learned more about the different types of neural networks, especially how a neural network operates in terms of neurons, synapses, and activation functions.
+
+
+Day 9:
+---------
+Today, I learned more about what a CNN is. Its applications to images are very important, and very useful. In addition, I learned more about how to use convolution, an activation layer (reLU, usually), and pooling operations to increase the usability of CNNs. 
