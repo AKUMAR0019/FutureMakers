@@ -52,7 +52,7 @@ Today, I learned more about what a CNN is. Its applications to images are very i
 
 Day 10:
 ---------
-Today, I learned about...
+Today, I learned about the 5-step plan to setting goals. I also learned how to get past insecurities in order to succeed.
 
 
 Reflections:
