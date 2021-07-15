@@ -49,3 +49,21 @@ Today, I learned more about the different types of neural networks, especially h
 Day 9:
 ---------
 Today, I learned more about what a CNN is. Its applications to images are very important, and very useful. In addition, I learned more about how to use convolution, an activation layer (reLU, usually), and pooling operations to increase the usability of CNNs. 
+
+Day 10:
+---------
+Today, I learned about...
+
+
+Reflections:
+=========
+
+Days 1-9:
+---------
+No reflections. See responses.
+
+Day 10:
+---------
+1. The AI hiring and firing decisions were likely made by a ML algorithm. When I made my selections in the beginning, that data was inputted into the model as training data, which resulted in the hiring patterns found in the machine-controlled decisions. Just like the Amazon hiring algorithm, my past decisions affected how the AI selected newer members, not just by looking at skills or ambition, but also by looking at other characteristics. 
+
+2. I learned very recently that the motion-detection soap dispensers run on ML algorithms, which explains why they don't work for me half the time. It is biased towards paler skin, so when a brown person sticks her hand underneath, it doesn't recognize the hand as a human hand, and soap is not dispensed. To make it more inclusive, you would need to train it on a larger dataset of hands, not just white ones, but brown ones too. The dataset isn't diverse enough. The reason I selected this one as opposed to other ones that concern me like Amazon's hiring algorithm (which automatically removed women, even when gender wasn't specified by IDing women's colleges, sports, and fraternities and removing people with those) or recidivism risk algorithms (say black people have a much higher risk of recidivism) is because this one personally affects me all the time. I always thought it was a glitch. Now I know differently. While the Amazon algorithm bothers me the most, I did want to provide more information on an algorithm few people reall;y know about.
