@@ -56,6 +56,8 @@ Today, I learned about the 5-step plan to setting goals. I also learned how to g
 
 Day 11:
 ---------
+Today, I learned more about the fully connected layer and also 3D filters. 
+
 In a FCNN, all layers are fully connected, meaning each neuron in a layer is connected to each neuron in another layer. The advantage of this setup is that there is no need to assume anything about the input (structurally agnostic), making them applicable to a broad set of problems. However, they perform worse than other networks with more specified purposes. They are less useful for feature extraction and have a larger number of weights to train, which makes them take longer to run.
 
 A CNN assumes that all inputs are images, so you can encode properties in the model setup. A CNN is a sequence of layers, just like FCNN, but these layers have different purposes. There is the convolutional layer, the activation layer, and the pooling layer, and these transform the data multiple times when running a CNN. These run faster, and are meant specifically for image datasets. 
