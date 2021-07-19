@@ -19,18 +19,15 @@ i. In supervised learning, training data already has labels, and the idea is to 
 
 ii. It is false because scikit-learn is built on other modules like NumPy, SciPy, IPython, Sympy, pandas, and matplotlib. It does data mining and data analysis, but to collect that data or display that data, it requires other libraries. 
 
-
 Day 4:
 ---------
 Today, I learned what the TPU is. I had no idea that there was such a thing as a Tensor Processing Unit which can speed up AI processing. 
 
 The dataset I found is a dataset on breast cancer metastases in whole-slide images of histological lymph node sections. The link is here: https://drive.google.com/drive/folders/0BzsdkU4jWx9Bb19WNndQTlUwb2M?resourcekey=0-FREBAxB4QK4bt9Zch_g5Mg. To use deep learning on this algorithm, I would use pattern recognition (computer vision algorithm), especially to identify which slides have evidence of cancer. 
 
-
 Days 5 & 6:
 ---------
 The weekend.
-
 
 Day 7:
 ---------
@@ -40,11 +37,9 @@ To answer the questions in text format: A tensor is basically a multidimensional
 
 The computations I ran were complicated. They tended to involve multiple steps to encode the data followed by the training of a dataset through hundreds of thousands of iterations. Calculations involved splitting a dataset into train and test datasets, encoding them, and then completing prediction and fitting. An optimizer and cost function were both important in tuning the code, as was the overall accuracy. Weights, biases, and lambdas also had to be encoded. It is difficult to understand the math behind it fully, but the concept behind multidimensional arrays and matrices is a part of linear algebra. 
 
-
 Day 8:
 ---------
 Today, I learned more about the different types of neural networks, especially how a neural network operates in terms of neurons, synapses, and activation functions.
-
 
 Day 9:
 ---------
@@ -61,6 +56,14 @@ Today, I learned more about the fully connected layer and also 3D filters.
 In a FCNN, all layers are fully connected, meaning each neuron in a layer is connected to each neuron in another layer. The advantage of this setup is that there is no need to assume anything about the input (structurally agnostic), making them applicable to a broad set of problems. However, they perform worse than other networks with more specified purposes. They are less useful for feature extraction and have a larger number of weights to train, which makes them take longer to run.
 
 A CNN assumes that all inputs are images, so you can encode properties in the model setup. A CNN is a sequence of layers, just like FCNN, but these layers have different purposes. There is the convolutional layer, the activation layer, and the pooling layer, and these transform the data multiple times when running a CNN. These run faster, and are meant specifically for image datasets. 
+
+Days 12 & 13:
+---------
+The weekend. 
+
+Days 14:
+---------
+Today, I learned more about the different types of loss functions, especially which ones apply to regression as opposed to classification. 
 
 
 Reflections:
