@@ -65,6 +65,15 @@ Days 14:
 ---------
 Today, I learned more about the different types of loss functions, especially which ones apply to regression as opposed to classification. 
 
+Days 15:
+---------
+Today, I learned more about the best activation functions to use for different NNs. I also learned the math behind the sigmoid and softmax functions. 
+
+My answer to the prompt on ReLU is as follows: ReLU outputs the result of max(0,x). This means for any value below 0 (negative numbers), the function outputs 0. For x=0 and above, it outputs x. ReLU is one of the most common activation functions for a hidden layer. Like all other activation functions, it adds nonlinear elements to the model so it can model data more complex than a line.
+
+The advantages ReLU presents are as follows: ReLU is less computationally expensive than other activation functions like tanh and sigmoid because it involves simpler math operations. In addition, at any given moment, only a few neurons are activated because of the 0 output for negative numbers. This makes the network sparse, which makes it efficient and easy for computation. ReLU learns much faster than sigmoid and tanh, which presents another advantage. Finally, ReLU overcomes the vanishing gradient problem, which allows models to learn faster and perform better. ReLU is often used in the hidden layers of MLPs and CNNs due to these advantages. 
+
+In deep neural networks, there is a need to use stochastic gradient descent with a backpropagation of errors in order to train. In this case, the activation function needed is one that looks and acts like a linear function, but is a nonlinear one in order to allow complex relationships in the data to be learned. It has to be more sensitive to the activation sum input and avoid easy saturation. Sigmoid and tanh can't do that because large values either translate to 1.0 or -1 or 0 for tanh and sigmoid respectively. Both are also hugely sensitive to changes around the midpoint (0.5 for sigmoid, 0.0 for tanh). ReLU has provided the solution, making it ideal to use. That doesn't mean it's perfect, of course. You do not want to use it in RNNs, for example. But in CNNs and MLPs, it is the best function to use.
 
 Reflections:
 =========
