@@ -79,6 +79,8 @@ Day 16:
 ---------
 Today, I learned more about the reasons why certain companies do not reveal how their AI makes decisions. I definitely see the value in explainable AI, because this black box can affect people's lives, and they have no way to challenge it.
 
+Considering the discrepancy between pictures of white people and pictures of others, I would say my model isn't going to be accurate enough at finding ethnicity, which will make it bad a predicting age and gender of people of minority ethnicities.
+
 Reflections:
 =========
 
