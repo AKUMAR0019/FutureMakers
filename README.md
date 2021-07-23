@@ -81,6 +81,10 @@ Today, I learned more about the reasons why certain companies do not reveal how 
 
 Considering the discrepancy between pictures of white people and pictures of others, I would say my model isn't going to be accurate enough at finding ethnicity, which will make it bad a predicting age and gender of people of minority ethnicities.
 
+Day 17:
+---------
+Today, I learned more about non-NN solutions to image classification, like SVM, K Nearest Neighbors, decision tree, and more.
+
 Reflections:
 =========
 
