@@ -93,6 +93,14 @@ The regression based function change: It reduced the noise in the accuracy graph
 
 To answer how overfit models can be detrimental: An overfit model is not generalizable. It's more like memorized data, which means when it actually gets applied to real life, it won't be able to make accurate predictions. For example, if your dataset is overfit to a criminal database of faces, which has a disproportionate amount of minority offenders, it could potentially misclassify minorities as criminals when applied to, say, facial recognition.
 
+Days 19 & 20:
+---------
+The weekend.
+
+Day 21:
+---------
+Today, I learned more about autoencoders, a form of unsupervised learning. There are many variations, with various applications such as GANs. The architecture is like a feed-forward NN attached to a reversed NN.
+
 Reflections:
 =========
 
