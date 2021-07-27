@@ -85,6 +85,22 @@ Day 17:
 ---------
 Today, I learned more about non-NN solutions to image classification, like SVM, K Nearest Neighbors, decision tree, and more.
 
+Day 18:
+---------
+Today, I learned more about the different ways to prevent overfitting, like the purpose of dropout and early stopping. I knew about Ridge and Lasso regularization in linear regression, but it was cool to learn how they could be used in NNs too. 
+
+The regression based function change: It reduced the noise in the accuracy graph, and allowed the loss to actually taper off instead of continually decreasing (a sign of overfitting). 
+
+To answer how overfit models can be detrimental: An overfit model is not generalizable. It's more like memorized data, which means when it actually gets applied to real life, it won't be able to make accurate predictions. For example, if your dataset is overfit to a criminal database of faces, which has a disproportionate amount of minority offenders, it could potentially misclassify minorities as criminals when applied to, say, facial recognition.
+
+Days 19 & 20:
+---------
+The weekend.
+
+Day 21:
+---------
+Today, I learned more about autoencoders, a form of unsupervised learning. There are many variations, with various applications such as GANs. The architecture is like a feed-forward NN attached to a reversed NN.
+
 Reflections:
 =========
 
