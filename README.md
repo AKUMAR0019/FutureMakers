@@ -101,6 +101,10 @@ Day 21:
 ---------
 Today, I learned more about autoencoders, a form of unsupervised learning. There are many variations, with various applications such as GANs. The architecture is like a feed-forward NN attached to a reversed NN.
 
+Day 22:
+---------
+Today, I learned about affective AI, or AI that is trained to recognize emotion. While some like Affectiva have used it in a supervised format, it can also be autoencoded. Evaluation happens through loss functions, using labels on the data.
+
 Reflections:
 =========
 
