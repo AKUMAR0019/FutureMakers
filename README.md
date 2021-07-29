@@ -105,6 +105,10 @@ Day 22:
 ---------
 Today, I learned about affective AI, or AI that is trained to recognize emotion. While some like Affectiva have used it in a supervised format, it can also be autoencoded. Evaluation happens through loss functions, using labels on the data.
 
+Day 23
+---------
+Today, I learned about NLP, especially the types of ML models that are optimal for it (RNNs and LSTMs). I also learned the step by step process involved in making an effective NLP, starting from data collection and assembly, on to preprocessing (tokenization being the newest strategy), then feature extraction, model building, and model evaluation.
+
 Reflections:
 =========
 
