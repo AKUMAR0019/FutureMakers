@@ -101,6 +101,18 @@ Day 21:
 ---------
 Today, I learned more about autoencoders, a form of unsupervised learning. There are many variations, with various applications such as GANs. The architecture is like a feed-forward NN attached to a reversed NN.
 
+Day 22:
+---------
+Today, I learned about affective AI, or AI that is trained to recognize emotion. While some like Affectiva have used it in a supervised format, it can also be autoencoded. Evaluation happens through loss functions, using labels on the data.
+
+Day 23
+---------
+Today, I learned about NLP, especially the types of ML models that are optimal for it (RNNs and LSTMs). I also learned the step by step process involved in making an effective NLP, starting from data collection and assembly, on to preprocessing (tokenization being the newest strategy), then feature extraction, model building, and model evaluation.
+
+Reflection on GPT-2: GPT-2 is an NLP innovation that allows a computer to generate text that has around a 50% effective use of high level writing skills. This is the first time that has happened. There are many ethical implications involved, but the biggest ones are as follows: 1) OpenAI has not revealed the algorithm code, to prevent its use in deepfakes. This means no one else can test its abilities properly and the output of the code can be suspect. 2) Many NLP softwares train on social media like Reddit and Twitter. With current misinformation, what it learns and creates can also be false. 3) In general for NLP, corpora may contain sensitive data and privacy which can be problematic. 4) Data quality may be poor, so text might not tell an accurate story. 5) Bias is possible depending on the source, another issue. 
+
+As such, researchers need to look carefully at the data, making sure to publicize information sources and hopefully code, because while it is true that others can use it for the wrong purposes, not sharing the code can lead to further problems in the future. After all, even though OpenAI didn't release the code, GPT equivalents have been created. It is important to also check the results of the algorithm. It cannot be unsupervised, or the results may cause genuine harm.
+
 Reflections:
 =========
 
