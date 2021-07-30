@@ -113,6 +113,10 @@ Reflection on GPT-2: GPT-2 is an NLP innovation that allows a computer to genera
 
 As such, researchers need to look carefully at the data, making sure to publicize information sources and hopefully code, because while it is true that others can use it for the wrong purposes, not sharing the code can lead to further problems in the future. After all, even though OpenAI didn't release the code, GPT equivalents have been created. It is important to also check the results of the algorithm. It cannot be unsupervised, or the results may cause genuine harm.
 
+Day 24
+---------
+Today I learned about more applications of computer vision, beyond affective computing. I am especially happy that we got a chance to talk about neuroinformatics, which is my primary interest. Reviewing all the steps of CV was also very useful.
+
 Reflections:
 =========
 
