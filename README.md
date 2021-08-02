@@ -117,6 +117,10 @@ Day 24
 ---------
 Today I learned about more applications of computer vision, beyond affective computing. I am especially happy that we got a chance to talk about neuroinformatics, which is my primary interest. Reviewing all the steps of CV was also very useful.
 
+Day 25
+---------
+Today I learned about the entrepreneurial process, especially how to find a problem to solve.
+
 Reflections:
 =========
 
