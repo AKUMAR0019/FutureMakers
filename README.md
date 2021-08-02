@@ -119,7 +119,7 @@ Today I learned about more applications of computer vision, beyond affective com
 
 Day 25
 ---------
-Today I learned about the entrepreneurial process, especially how to find a problem to solve.
+Today I learned about the entrepreneurial process, especially how to find a problem to solve. Knowing your audience is important, and one should be doing actual market research to investigate the demand and feedback for a product.
 
 Reflections:
 =========
