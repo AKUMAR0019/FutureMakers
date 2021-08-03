@@ -121,6 +121,10 @@ Day 25
 ---------
 Today I learned about the entrepreneurial process, especially how to find a problem to solve. Knowing your audience is important, and one should be doing actual market research to investigate the demand and feedback for a product.
 
+Day 26
+---------
+Today I learned about how to define the problem to solve using code. Sticky note brainstorming (using Jamboard, for example) can organize thoughts and narrow focus.
+
 Reflections:
 =========
 
