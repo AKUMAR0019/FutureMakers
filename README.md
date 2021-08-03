@@ -125,6 +125,10 @@ Day 26
 ---------
 Today I learned about how to define the problem to solve using code. Sticky note brainstorming (using Jamboard, for example) can organize thoughts and narrow focus.
 
+Day 27
+---------
+Today I learned about how to conduct market research to identify the user base and problem that has created need for the product.
+
 Reflections:
 =========
 
