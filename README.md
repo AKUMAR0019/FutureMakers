@@ -121,13 +121,29 @@ Day 25
 ---------
 Today I learned about the entrepreneurial process, especially how to find a problem to solve. Knowing your audience is important, and one should be doing actual market research to investigate the demand and feedback for a product.
 
-Day 26
+Days 26 & 27
+---------
+The weekend.
+
+Day 28
 ---------
 Today I learned about how to define the problem to solve using code. Sticky note brainstorming (using Jamboard, for example) can organize thoughts and narrow focus.
 
-Day 27
+Day 29
 ---------
 Today I learned about how to conduct market research to identify the user base and problem that has created need for the product.
+
+Day 30
+---------
+Today I learned about wireframing, especially using Marvel to sketch out what the product might look like.
+
+Day 31
+---------
+Today I learned about patenting: how the process works, what to add in a patent application, how to create one and submit it, etc.
+
+Day 32
+---------
+Today I learned about launch and landing, especially the metrics to determine success like KPI and MSP.
 
 Reflections:
 =========
