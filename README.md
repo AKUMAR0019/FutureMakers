@@ -145,6 +145,26 @@ Day 32
 ---------
 Today I learned about launch and landing, especially the metrics to determine success like KPI and MSP.
 
+Days 33 & 34
+---------
+The weekend.
+
+Day 35
+---------
+Today, I learned more about how to improve upon the accuracy of my model by using 3 channels for RGB instead of converting the images to grayscale.
+
+Days 36
+---------
+
+
+Days 37
+---------
+
+
+Days 38
+---------
+
+
 Reflections:
 =========
 
